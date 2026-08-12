@@ -46,20 +46,26 @@ aluno, identificada com nome e sobrenome. Exemplo: `tamara-simoes`.
    ```bash
    git checkout -b nome-sobrenome
    ```
-4. **Crie a sua pasta** (se ainda não existir) com o mesmo padrão `nome-sobrenome` e desenvolva a
-   atividade dentro dela.
-5. **Acompanhe o status, adicione e registre suas mudanças:**
+4. **Execute a sua atividade** dentro da sua branch.
+   
+6. **Acompanhe o status, adicione e registre suas mudanças:**
+
    ```bash
    git status
    git add .
    git commit -m "Resolve atividade 03 - nome-sobrenome"
    ```
-6. **Envie sua branch para o repositório remoto:**
+   
+8. **Envie sua branch para o repositório remoto:**
+
    ```bash
    git push origin nome-sobrenome
    ```
-7. **Abra um Pull Request** no GitHub, da sua branch para a `main`, para que o professor revise e
+   
+10. **Abra um Pull Request** no GitHub, da sua branch para a `main`, para que o professor revise e
    aceite sua entrega.
+
+> **Atenção!** NÃO FAÇA O MERGE. Faça apenas quando for solicitado.
 
 ---
 
@@ -97,4 +103,4 @@ Slides, resumos e exemplos usados em aula ficam disponíveis no repositório
 ## 👨‍🏫 Contato
 
 Dúvidas sobre acesso à organização ou aos repositórios: fale com a professora durante a aula ou
-pelo canal oficial da turma no AVA.
+pelo canal oficial da turma, no AVA ou pelo fórum desta organização.
