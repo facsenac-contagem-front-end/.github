@@ -9,6 +9,8 @@ O objetivo é usar o GitHub como ele é usado no mercado de trabalho: um espaço
 versão** e **colaboração**, onde cada entrega fica registrada, organizada e visível para consulta
 a qualquer momento — inclusive depois de formados, como parte do seu portfólio.
 
+[Cadastro de Usuários](https://forms.gle/AsgDcE9E5BjZU2q28)
+
 ---
 
 ## 🗂️ Como os repositórios estão organizados
