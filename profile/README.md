@@ -13,6 +13,13 @@ a qualquer momento — inclusive depois de formados, como parte do seu portfóli
 
 ---
 
+## 📚 Materiais de apoio
+
+Slides, resumos e exemplos usados em aula ficam disponíveis no repositório
+[`materiais-de-apoio`](https://github.com/facsenac-contagem-front-end/materiais-de-apoio).
+
+---
+
 ## 🗂️ Como os repositórios estão organizados
 
 Cada **exercício ou atividade** proposta em aula tem o **seu próprio repositório**, compartilhado
@@ -92,13 +99,6 @@ aluno, identificada com nome e sobrenome. Exemplo: `tamara-simoes`.
 - Dúvidas técnicas podem ser registradas como **Issues** no repositório da atividade — isso ajuda
   a turma toda a ver a pergunta e a resposta.
 - Sempre confira o `git status` antes de commitar, para não enviar arquivos por engano.
-
----
-
-## 📚 Materiais de apoio
-
-Slides, resumos e exemplos usados em aula ficam disponíveis no repositório
-[`materiais-de-apoio`](https://github.com/facsenac-contagem-front-end/materiais-de-apoio).
 
 ---
 
